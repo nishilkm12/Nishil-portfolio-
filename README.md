@@ -53,7 +53,7 @@ Interested in:
 
 📫 Connect With Me
 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/nishilkm12/Nishil-portfolio-
 - LinkedIn:https://www.linkedin.com/in/nishil-km-baa1a838b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 -Instagram:https://www.instagram.com/nishhiill?igsh=MWRkNHY5cmZoeDA1MQ==
 
