@@ -57,4 +57,4 @@ Interested in:
 - LinkedIn:https://www.linkedin.com/in/nishil-km-baa1a838b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 -Instagram:https://www.instagram.com/nishhiill?igsh=MWRkNHY5cmZoeDA1MQ==
 
-⭐ “Cybersecurity is not just a skill, it's a responsibility.”
+“Cybersecurity is not just a skill, it's a responsibility.”
