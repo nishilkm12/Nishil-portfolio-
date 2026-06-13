@@ -27,9 +27,6 @@ Currently exploring:
 
 🛡️ Certified Online Fraud Prevention Specialist (COFPS)
 📍 Hack and Fix
-
-🛡️ Real world VAPT and Burp Suite Pro
-📍Cyber Sphere
 ---
 
 🏆 Achievements
