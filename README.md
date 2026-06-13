@@ -27,6 +27,15 @@ Currently exploring:
 
 🛡️ Certified Online Fraud Prevention Specialist (COFPS)
 📍 Hack and Fix
+
+🛡️Real world VAPT and Burp Suite Pro
+📍Cyber Sphere 
+
+🛡️Deloitte Cyber Job Simulation
+📍Deloitte
+
+🛡️Intermediate Malware Analysis Course
+📍Red Team Leaders
 ---
 
 🏆 Achievements
